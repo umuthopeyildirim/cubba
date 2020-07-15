@@ -13,6 +13,7 @@ os.mkdir('pothole_detected')
 # import capture_camera
 import export_video
 import classificition
+import gps_capture
 
 # Take Every one picture
 count = 0
